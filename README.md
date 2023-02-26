@@ -1,1 +1,2 @@
-# W2-P1-CodeReview
+# Build-a-Technical-Documentation-Page
+Build a Technical Documentation Page Project
